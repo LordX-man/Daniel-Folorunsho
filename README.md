@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LordX-man
-- 👀 I’m interested in python programming.
-- 🌱 I’m currently learning artificial intelligence develoopment.
-- 💞️ I’m looking to collaborate on building a small e-commerce website for a fashion brand.
+- 👀 I’m a python developer.
+- 🌱 I’m an enthusiast in artificial intelligence develoopment.
 - 📫 How to reach me on my mail(aylek1259@gmail.com).
 
 <!---
